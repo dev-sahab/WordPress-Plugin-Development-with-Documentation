@@ -1,0 +1,6 @@
+themes
+/index.php
+uploads
+plugins/*
+!plugins/ajax-search
+upgrade
