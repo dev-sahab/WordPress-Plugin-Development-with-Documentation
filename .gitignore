@@ -2,5 +2,5 @@ themes
 /index.php
 uploads
 plugins/*
-!plugins/ajax-search
+!plugins/simple-one
 upgrade
